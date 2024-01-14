@@ -71,7 +71,7 @@ This will be used in our console app later with the format of:
 
 In the 2nd step, we have created **App Role** for **uptec-auth-api** app registration. 
 Now, we need to make sure the caller app/console app can request that properly.
-We need to go to **uptec-auth-api-caller** app registration and request that **App Role **permission.
+We need to go to **uptec-auth-api-caller** app registration and request that **App Role** permission.
 
 Go to **uptec-auth-api-caller** app registration > API Permission > Add Permission > Search and select in the APIs my organization use.
 
