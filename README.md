@@ -216,7 +216,7 @@ Then, in the Main method, we need to call the InitializeApp and InvokeApiEndpoin
 
 ### 6. Test The Applications.
 
-Make sure you run the previous WeatherForecase web api project in the 2nd tutorial first to 
+Make sure you run the previous WeatherForecast web api project in the 2nd tutorial first to 
 test our console app.
 
 ![2024 01 14 10H34 08](assets/2024-01-14_10h34_08.png)
