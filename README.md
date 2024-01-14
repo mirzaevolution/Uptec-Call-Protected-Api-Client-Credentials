@@ -31,7 +31,7 @@ console application.
 
 > NB: If you don't use the same name, make sure you go to your app registration for calling the api.
 
-Go to the Secret Menu, and generate new one there. Once completed, take a note on the generetad secret. 
+Go to the Secret Menu, and generate new one there. Once completed, take a note on the generated secret. 
 
 ![2024 01 13 06H34 09](assets/2024-01-13_06h34_09.png)
 
