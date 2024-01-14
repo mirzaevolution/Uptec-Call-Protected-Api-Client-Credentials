@@ -6,7 +6,7 @@ namespace UptecClientCredentialsConsole
     public class Program
     {
         #region Private Members
-        private static readonly string _authority = "https://login.microsoftonline.com/61936779-8f05-434a-ac81-99da453d652c";
+        private static readonly string _authority = "https://login.microsoftonline.com/TENANT_ID";
         private static readonly string _clientId = "CLIENT_ID";
         private static readonly string _clientSecret = "CLIENT_SECRET";
         private static readonly string[] _scopes =
