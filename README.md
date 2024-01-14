@@ -10,7 +10,7 @@ We're going to use Client Credentials Flow (Machine to Machine communication). T
 
 **Requirements:**
  
- - Web Framework: .NET Core 7x Console Project
+ - Framework: .NET Core 7x Console Project
  - Nuget: Microsoft.Identity.Client
 
 
