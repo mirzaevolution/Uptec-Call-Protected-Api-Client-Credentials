@@ -1,4 +1,4 @@
-# Auth Series #3 - Call ASP.NET Core API Protected by Azure AD/Microsoft Entra ID via Console Client Credentials
+# Auth Series #3 - Call ASP.NET Core API Protected by Azure AD/Microsoft Entra ID via Console Client Credentials Flow
 
 ![2024 01 14 10H35 32](assets/2024-01-14_10h35_32.png)
 
